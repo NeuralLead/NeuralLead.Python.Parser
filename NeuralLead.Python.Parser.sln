@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralLead.Python.Parser", "NeuralLead.Python.Parser\NeuralLead.Python.Parser.csproj", "{9C850D20-87F2-453D-BE93-81E1D1B2858D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{48485701-3D73-4BE0-8AFF-1E35E410B580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C850D20-87F2-453D-BE93-81E1D1B2858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C850D20-87F2-453D-BE93-81E1D1B2858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C850D20-87F2-453D-BE93-81E1D1B2858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C850D20-87F2-453D-BE93-81E1D1B2858D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48485701-3D73-4BE0-8AFF-1E35E410B580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48485701-3D73-4BE0-8AFF-1E35E410B580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48485701-3D73-4BE0-8AFF-1E35E410B580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48485701-3D73-4BE0-8AFF-1E35E410B580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6CFFD1-DBB0-44EA-8CD8-DC5A27F5EDBC}
+	EndGlobalSection
+EndGlobal
