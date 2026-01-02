@@ -1,4 +1,4 @@
-# NeuralLead.Python.Parser
+﻿# NeuralLead.Python.Parser
 
 A lightweight and efficient .NET library for parsing Python source code and extracting metadata about classes, functions, and global variables using regular expressions.
 
@@ -262,16 +262,16 @@ This project is open source. Please check the LICENSE file for more information.
 
 ```
 NeuralLead.Python.Parser/
-??? NeuralLead.Python.Parser/
-?   ??? Parser.cs                 # Main parser class
-?   ??? Model/
-?       ??? PythonFunction.cs     # Function model
-?       ??? PythonClass.cs        # Class model
-?       ??? PythonArg.cs          # Argument model
-?       ??? PythonGlobalVar.cs    # Global variable model
-??? Test/
-    ??? Program.cs                # Example usage
-    ??? tuofile.py                # Sample Python file
+- NeuralLead.Python.Parser/
+   - Parser.cs                 # Main parser class
+   - Model/
+       - PythonFunction.cs     # Function model
+       - PythonClass.cs        # Class model
+       - PythonArg.cs          # Argument model
+       - PythonGlobalVar.cs    # Global variable model
+- Test/
+    - Program.cs                # Example usage
+    - tuofile.py                # Sample Python file
 ```
 
 ## Support
